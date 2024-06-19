@@ -1,0 +1,10 @@
+﻿openai:
+  api_key: ''
+
+influxdb:
+  host: 'localhost'
+  port: 8086
+  database: 'openai_stats'
+
+scheduler:
+  interval: '5m'  # Interval to run the data collection (e.g., '5m' for 5 minutes)

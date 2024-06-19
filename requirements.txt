@@ -1,0 +1,6 @@
+﻿fastapi
+uvicorn
+openai
+influxdb
+pyyaml
+schedule
